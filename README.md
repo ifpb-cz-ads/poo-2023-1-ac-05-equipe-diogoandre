@@ -1,4 +1,4 @@
-##Resoluções: 
+## Resoluções: 
 
 **2) Compare e contraste as instruções de repetição while e for.**
 
@@ -10,4 +10,4 @@ R: Apesar quas duas estruturas de repetições exerçam o mesmo papel, é recome
 
 **6) O que o seguinte programa faz?**
 
-R: O código irá executar duas estruturas de repetições, uma de cada vez, por exeplo ele primeiro executa o for dentro do outro, e vai incrementar até que j seja igual. Depois executa de novo o for mais externo, uma vez incrementado o for intern irá executar mais uma vez. O programa só vai parar quando i ser igual a 10.
+R: O código irá executar duas estruturas de repetições, uma de cada vez, por exemplo ele primeiro executa o for interno, e vai incrementar até que j seja igual a 5. Depois executa de novo o for mais externo, uma vez incrementado o for interno irá executar mais uma vez, com j inicializado em 1. O programa só vai parar quando i for igual a 10.
